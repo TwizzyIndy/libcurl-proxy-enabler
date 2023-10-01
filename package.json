@@ -1,0 +1,14 @@
+{
+  "name": "libcurl-proxy-enabler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "some": "frida -n some.exe -l index.js"
+  },
+  "author": "TwizzyIndy",
+  "license": "ISC",
+  "dependencies": {
+    "@types/frida-gum": "^18.4.1"
+  }
+}
